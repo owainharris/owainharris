@@ -10,7 +10,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 publishDir = "docs"
 [Params]
-  subtitle = "Developer | Linux Nerd | Father"
+  subtitle = "Developer | Linux Geek | Father"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
