@@ -1,4 +1,4 @@
-baseurl = "https://owainharris.github.io"
+baseurl = "https://owainharris.github.io/owainharris/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
