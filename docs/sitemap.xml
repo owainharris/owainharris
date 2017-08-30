@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://owainharris.github.io/owainharris/</loc>
-    <lastmod>2017-08-30T15:56:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://owainharris.github.io/owainharris/post/</loc>
     <lastmod>2017-08-30T15:56:50-04:00</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>https://owainharris.github.io/owainharris/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://owainharris.github.io/owainharris/</loc>
+    <lastmod>2017-08-30T15:56:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
