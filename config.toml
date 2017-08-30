@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-
+publishDir = "docs"
 [Params]
   subtitle = "Build a beautiful and simple website in minutes"
   logo = "img/avatar-icon.png"
@@ -17,7 +17,7 @@ pygmentCodeFences = true
   commit = false
   rss = true
   comments = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to 
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to
 #"Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
