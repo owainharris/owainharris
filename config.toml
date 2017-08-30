@@ -10,13 +10,13 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 publishDir = "docs"
 [Params]
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Developer | Linux Nerd | Father"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
-  comments = true
+  comments = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to
 #"Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -31,28 +31,14 @@ publishDir = "docs"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  name = "Owain Harris"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
   gitlab = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+  twitter = "owainharris"
+  linkedin = "owainharris"
+  instagram = "owain__harris"
 
 [[menu.main]]
     name = "Blog"
