@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beautiful Hugo</title>
+    <title>Owain Harris</title>
     <link>https://owainharris.github.io/owainharris/</link>
-    <description>Recent content on Beautiful Hugo</description>
+    <description>Recent content on Owain Harris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Owain Harris)</managingEditor>
-    <webMaster>youremail@domain.com (Owain Harris)</webMaster>
+    <managingEditor>owainh@gmail.com (Owain Harris)</managingEditor>
+    <webMaster>owainh@gmail.com (Owain Harris)</webMaster>
     <lastBuildDate>Wed, 30 Aug 2017 15:56:50 -0400</lastBuildDate>
     
 	<atom:link href="https://owainharris.github.io/owainharris/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>First Post</title>
       <link>https://owainharris.github.io/owainharris/post/first-post/</link>
       <pubDate>Wed, 30 Aug 2017 15:56:50 -0400</pubDate>
-      <author>youremail@domain.com (Owain Harris)</author>
+      <author>owainh@gmail.com (Owain Harris)</author>
       <guid>https://owainharris.github.io/owainharris/post/first-post/</guid>
       <description>Hello! Welcome to my first post! This is in testing&amp;hellip;.</description>
     </item>

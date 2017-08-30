@@ -1,7 +1,7 @@
 baseurl = "https://owainharris.github.io/owainharris/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Owain Harris"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -32,10 +32,10 @@ publishDir = "docs"
 
 [Author]
   name = "Owain Harris"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  github = "username"
-  gitlab = "username"
+  website = "https://owainharris.github.io/owainharris/"
+  email = "owainh@gmail.com"
+  github = "owainharris"
+  gitlab = "owainharris"
   twitter = "owainharris"
   linkedin = "owainharris"
   instagram = "owain__harris"
