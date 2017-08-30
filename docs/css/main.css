@@ -24,7 +24,7 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 300;
 }
 a {
   color: #008AFF;
@@ -117,8 +117,9 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 300;
   color: #404040;
+  font-size: 16px;
 }
 
 .navbar-custom .navbar-brand:hover,
