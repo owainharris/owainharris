@@ -1,8 +1,8 @@
 ---
 title: "Tmux is essential"
 date: 2017-08-30T15:56:50-04:00
-draft: false
 comments: true
+draft: false
 ---
 # **Tmux sessions**
 
