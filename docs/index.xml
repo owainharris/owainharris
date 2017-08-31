@@ -13,16 +13,14 @@
     
     
     <item>
-      <title>pip install Pygments</title>
+      <title>Tmux is essential</title>
       <link>https://owainharris.github.io/owainharris/post/first-post/</link>
       <pubDate>Wed, 30 Aug 2017 15:56:50 -0400</pubDate>
       <author>owainh@gmail.com (Owain Harris)</author>
       <guid>https://owainharris.github.io/owainharris/post/first-post/</guid>
-      <description>Tmux sessions
-If you spend any time in the command line and are not using Tmux, you&amp;#39;re really missing out.
+      <description>Tmux sessions If you spend any time in the command line and are not using Tmux, you&amp;#39;re really missing out.
 Developers, DevOps and SysAdmins are always looking for tools to make their life more productive and easier to manage. Tmux is a favorite tool for many, for good reason.
-So.. what exactly is Tmux?
-The official term of Tmux is &amp;#39; terminal multiplexer&amp;#39;. Tmux allows you to create saved sessions in your terminal, whether you&amp;#39;re on your local machine or connected to a server via an SSH session.</description>
+So.. what exactly is Tmux? The official term of Tmux is &amp;#39;terminal multiplexer&amp;#39;. Tmux allows you to create saved sessions in your terminal, whether you&amp;#39;re on your local machine or connected to a server via an SSH session.</description>
     </item>
     
   </channel>
