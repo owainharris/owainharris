@@ -24,7 +24,7 @@ Developers, DevOps and SysAdmins are always looking for tools to make their life
 
 ### **So.. what exactly is Tmux?**
 
-The official term of Tmux is **&#39;_terminal multiplexer_&#39;**. Tmux allows you to create saved sessions in your terminal, whether you&#39;re on your local machine or connected to a server via an SSH session.
+The official term of Tmux is **&#39;_terminal multiplexer_&#39;**. Tmux allows you to create saved sessions in your terminal, whether you&#39;re on your local machine or connected to a server via a ssh session.
 
 Why is this helpful? For me, most of my work is done on my local machine. From day to day I switch between a range projects. Most are in the web development space, and each project requires a slightly different approach to how I interact with it via the command line.
 
@@ -32,13 +32,13 @@ The beauty of Tmux, is it allows me to create a terminal session for each projec
 
 The real beauty of Tmux comes when you find yourself connecting to multiple servers frequently. _(Actually, even just one!)._
 
-Imagine you&#39;re in the office, you have your new application running on a cloud server and you have everything set up over your SSH connection just how you like it.
+Imagine you&#39;re in the office, you have your new application running on a cloud server and you have everything set up over your ssh connection just how you like it.
 
 In one tab you have Htop, in another you are sitting in a deeply nested directory you need to fire off most of your commands from, and have Vim open in another for any quick config edits.
 
 Now imagine you returned home for the evening and remembered you forgot to save that last edit you made!?
 
-With Tmux you can simply connect to that SSH session and return to that exact same terminal setup you had at work ... Nice, right!?
+With Tmux you can simply connect to that ssh session and return to that exact same terminal setup you had at work ... Nice, right!?
 
 
 
