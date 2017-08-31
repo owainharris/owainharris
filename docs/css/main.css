@@ -654,14 +654,17 @@ table tr td :last-child {
 }
 
 /* --- Code blocks --- */
-
 pre {
   font-size: 16px;
   line-height: 1.5em;
 }
-pre code {
-  white-space: pre;
+
+@media only screen and (min-width: 768px) {
+  pre code {
+    white-space: pre;
+  }
 }
+
 pre.highlight, .highlight > pre, td.code pre {
   background: #FAFAFA;
   background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%);
